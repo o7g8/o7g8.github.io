@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.org/about/</loc>
+    <lastmod>2018-09-24T02:26:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/posts/vscode-remote-debugging/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/c/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/c&#43;&#43;/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/</loc>
+    <lastmod>2018-09-24T02:26:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/debugging/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/gcc/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/gdb/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/linux/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/posts/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/tags/visual-studio-code/</loc>
+    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
