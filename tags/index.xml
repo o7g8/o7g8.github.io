@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Coding Architect</title>
-    <link>https://www.example.org/tags/</link>
+    <link>https://o7g8.github.io/tags/</link>
     <description>Recent content in Tags on Coding Architect</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Oleg Grytsynevych</copyright>
     <lastBuildDate>Sun, 23 Sep 2018 23:00:45 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://o7g8.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C</title>
-      <link>https://www.example.org/tags/c/</link>
+      <link>https://o7g8.github.io/tags/c/</link>
       <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
       
-      <guid>https://www.example.org/tags/c/</guid>
+      <guid>https://o7g8.github.io/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://www.example.org/tags/c&#43;&#43;/</link>
+      <link>https://o7g8.github.io/tags/c&#43;&#43;/</link>
       <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
       
-      <guid>https://www.example.org/tags/c&#43;&#43;/</guid>
+      <guid>https://o7g8.github.io/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Debugging</title>
-      <link>https://www.example.org/tags/debugging/</link>
+      <link>https://o7g8.github.io/tags/debugging/</link>
       <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
       
-      <guid>https://www.example.org/tags/debugging/</guid>
+      <guid>https://o7g8.github.io/tags/debugging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gcc</title>
-      <link>https://www.example.org/tags/gcc/</link>
+      <link>https://o7g8.github.io/tags/gcc/</link>
       <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
       
-      <guid>https://www.example.org/tags/gcc/</guid>
+      <guid>https://o7g8.github.io/tags/gcc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gdb</title>
-      <link>https://www.example.org/tags/gdb/</link>
+      <link>https://o7g8.github.io/tags/gdb/</link>
       <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
       
-      <guid>https://www.example.org/tags/gdb/</guid>
+      <guid>https://o7g8.github.io/tags/gdb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://www.example.org/tags/linux/</link>
+      <link>https://o7g8.github.io/tags/linux/</link>
       <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
       
-      <guid>https://www.example.org/tags/linux/</guid>
+      <guid>https://o7g8.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Studio Code</title>
-      <link>https://www.example.org/tags/visual-studio-code/</link>
+      <link>https://o7g8.github.io/tags/visual-studio-code/</link>
       <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
       
-      <guid>https://www.example.org/tags/visual-studio-code/</guid>
+      <guid>https://o7g8.github.io/tags/visual-studio-code/</guid>
       <description></description>
     </item>
     
