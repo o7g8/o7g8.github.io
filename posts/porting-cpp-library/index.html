@@ -125,11 +125,7 @@ if (!doNotTrack) {
 
     
 
-<blockquote>
-<p>Assembly of Japanese bicycle require great peace of mind. &copy; Robert Pirsig</p>
-</blockquote>
-
-<p>As a part of Native Cloud transformation at my work I had to port a financial library from Windows to Linux. The library consists of 250K LoC of C and 300K LoC of C++ and some of the code is 20 years old. During the last 10 years it has been developed with MSVC++ exclusively for Windows. I wanted to port the code to GCC/Linux and maintain the MSVC++/Windows build error-free in the same time.</p>
+<p>As a part of Native Cloud transformation at my work I&rsquo;ve ported a financial library from Windows to Linux. The library consists of 250K LoC of C and 300K LoC of C++. Some of the code is 20 years old. During the last 10 years it has been developed with MSVC++ exclusively for Windows. I wanted to port the code to GCC/Linux and keep the MSVC++/Windows build error-free in the same time.</p>
 
 <p>About 70% of the porting efforts were spent on adaption of the legacy C++ code to C++14 standard. The porting took roughly 2 months.</p>
 
@@ -367,12 +363,14 @@ ReturnType<span style="color:#f92672">&lt;</span>T<span style="color:#f92672">&g
 <li><p>Error: <code>unknown type name ‘_TUCHAR’</code>. See <a href="https://msdn.microsoft.com/en-us/library/c426s321.aspx">https://msdn.microsoft.com/en-us/library/c426s321.aspx</a>, use <code>wchar_t</code>.</p></li>
 </ul>
 
-<h2 id="linker-error">Linker error</h2>
+<h2 id="linker-errors">Linker errors</h2>
 
 <p>Linking phase certifies the entire porting process.</p>
 
 <ul>
-<li>Linker error <code>multiple definition of</code><code>T</code>``. For specializations See <a href="https://stackoverflow.com/questions/47544299/where-should-the-definition-of-an-explicit-specialization-of-a-class-template-be">https://stackoverflow.com/questions/47544299/where-should-the-definition-of-an-explicit-specialization-of-a-class-template-be</a></li>
+<li><p>Link order of static libraries is important. See <a href="http://www.network-theory.co.uk/docs/gccintro/gccintro_18.html">http://www.network-theory.co.uk/docs/gccintro/gccintro_18.html</a> and <a href="https://eli.thegreenplace.net/2013/07/09/library-order-in-static-linking">https://eli.thegreenplace.net/2013/07/09/library-order-in-static-linking</a></p></li>
+
+<li><p>Linker error <code>multiple definition of</code><code>T</code>``. For specializations See <a href="https://stackoverflow.com/questions/47544299/where-should-the-definition-of-an-explicit-specialization-of-a-class-template-be">https://stackoverflow.com/questions/47544299/where-should-the-definition-of-an-explicit-specialization-of-a-class-template-be</a></p></li>
 </ul>
 
 

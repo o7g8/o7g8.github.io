@@ -17,8 +17,7 @@
       <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
       
       <guid>https://o7g8.github.io/posts/porting-cpp-library/</guid>
-      <description>Assembly of Japanese bicycle require great peace of mind. &amp;copy; Robert Pirsig
- As a part of Native Cloud transformation at my work I had to port a financial library from Windows to Linux.</description>
+      <description>As a part of Native Cloud transformation at my work I&amp;rsquo;ve ported a financial library from Windows to Linux. The library consists of 250K LoC of C and 300K LoC of C++.</description>
     </item>
     
   </channel>
