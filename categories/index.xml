@@ -6,9 +6,64 @@
     <description>Recent content in Categories on Coding Architect</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Oleg Grytsynevych</copyright>
+    <lastBuildDate>Wed, 28 Nov 2018 00:17:11 +0000</lastBuildDate>
     
 	<atom:link href="https://o7g8.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C</title>
+      <link>https://o7g8.github.io/categories/c/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/categories/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://o7g8.github.io/categories/c&#43;&#43;/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/categories/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gcc</title>
+      <link>https://o7g8.github.io/categories/gcc/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/categories/gcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://o7g8.github.io/categories/linux/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Msvc</title>
+      <link>https://o7g8.github.io/categories/msvc/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/categories/msvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porting</title>
+      <link>https://o7g8.github.io/categories/porting/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/categories/porting/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

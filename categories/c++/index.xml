@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Coding Architect</title>
+    <link>https://o7g8.github.io/categories/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Coding Architect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Oleg Grytsynevych</copyright>
+    <lastBuildDate>Wed, 28 Nov 2018 00:17:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://o7g8.github.io/categories/c++/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lab notebook: Porting 550K LoC of C/C&#43;&#43; from Windows to Linux</title>
+      <link>https://o7g8.github.io/posts/porting-cpp-library/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/posts/porting-cpp-library/</guid>
+      <description>Assembly of Japanese bicycle require great peace of mind. &amp;copy; Robert Pirsig
+ As a part of Native Cloud transformation at my work I had to port a financial library from Windows to Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

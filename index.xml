@@ -22,6 +22,16 @@ All views expressed on this site are my own and do not represent the opinions of
     </item>
     
     <item>
+      <title>Lab notebook: Porting 550K LoC of C/C&#43;&#43; from Windows to Linux</title>
+      <link>https://o7g8.github.io/posts/porting-cpp-library/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/posts/porting-cpp-library/</guid>
+      <description>Assembly of Japanese bicycle require great peace of mind. &amp;copy; Robert Pirsig
+ As a part of Native Cloud transformation at my work I had to port a financial library from Windows to Linux.</description>
+    </item>
+    
+    <item>
       <title>Remote debugging of C/C&#43;&#43; code with Visual Studio Code</title>
       <link>https://o7g8.github.io/posts/vscode-remote-debugging/</link>
       <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>

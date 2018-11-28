@@ -14,14 +14,17 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
   <link rel="stylesheet" type="text/css" href="https://o7g8.github.io/css/styles.css" />
   
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-44958465-2', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-44958465-2', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
 </head>
@@ -89,6 +92,11 @@ ga('send', 'pageview');
 
     <h3>2018</h3>
     <ul>
+        
+        <li>
+            <a href="https://o7g8.github.io/posts/porting-cpp-library/">Lab notebook: Porting 550K LoC of C/C++ from Windows to Linux</a>
+            <time class="date-meta">Nov 28</time>
+        </li>
         
         <li>
             <a href="https://o7g8.github.io/posts/vscode-remote-debugging/">Remote debugging of C/C++ code with Visual Studio Code</a>
