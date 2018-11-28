@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Coding Architect</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Oleg Grytsynevych</copyright>
-    <lastBuildDate>Sun, 23 Sep 2018 23:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Nov 2018 00:17:11 +0000</lastBuildDate>
     
 	<atom:link href="https://o7g8.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>C</title>
       <link>https://o7g8.github.io/tags/c/</link>
-      <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
       
       <guid>https://o7g8.github.io/tags/c/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>C&#43;&#43;</title>
       <link>https://o7g8.github.io/tags/c&#43;&#43;/</link>
-      <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
       
       <guid>https://o7g8.github.io/tags/c&#43;&#43;/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Gcc</title>
       <link>https://o7g8.github.io/tags/gcc/</link>
-      <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
       
       <guid>https://o7g8.github.io/tags/gcc/</guid>
       <description></description>
@@ -59,9 +59,27 @@
     <item>
       <title>Linux</title>
       <link>https://o7g8.github.io/tags/linux/</link>
-      <pubDate>Sun, 23 Sep 2018 23:00:45 +0000</pubDate>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
       
       <guid>https://o7g8.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Msvc</title>
+      <link>https://o7g8.github.io/tags/msvc/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/tags/msvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porting</title>
+      <link>https://o7g8.github.io/tags/porting/</link>
+      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/tags/porting/</guid>
       <description></description>
     </item>
     

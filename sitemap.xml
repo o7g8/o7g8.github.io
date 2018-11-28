@@ -19,31 +19,18 @@
   
   <url>
     <loc>https://o7g8.github.io/tags/c/</loc>
-    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://o7g8.github.io/categories/c/</loc>
     <lastmod>2018-11-28T00:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://o7g8.github.io/tags/c&#43;&#43;/</loc>
-    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://o7g8.github.io/categories/c&#43;&#43;/</loc>
     <lastmod>2018-11-28T00:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://o7g8.github.io/categories/</loc>
-    <lastmod>2018-11-28T00:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -61,12 +48,6 @@
   
   <url>
     <loc>https://o7g8.github.io/tags/gcc/</loc>
-    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://o7g8.github.io/categories/gcc/</loc>
     <lastmod>2018-11-28T00:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -79,24 +60,18 @@
   
   <url>
     <loc>https://o7g8.github.io/tags/linux/</loc>
-    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://o7g8.github.io/categories/linux/</loc>
     <lastmod>2018-11-28T00:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://o7g8.github.io/categories/msvc/</loc>
+    <loc>https://o7g8.github.io/tags/msvc/</loc>
     <lastmod>2018-11-28T00:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://o7g8.github.io/categories/porting/</loc>
+    <loc>https://o7g8.github.io/tags/porting/</loc>
     <lastmod>2018-11-28T00:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -109,7 +84,7 @@
   
   <url>
     <loc>https://o7g8.github.io/tags/</loc>
-    <lastmod>2018-09-23T23:00:45+00:00</lastmod>
+    <lastmod>2018-11-28T00:17:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
