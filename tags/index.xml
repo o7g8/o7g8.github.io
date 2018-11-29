@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Coding Architect</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Oleg Grytsynevych</copyright>
-    <lastBuildDate>Wed, 28 Nov 2018 00:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Nov 2018 19:06:24 +0000</lastBuildDate>
     
 	<atom:link href="https://o7g8.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apl</title>
+      <link>https://o7g8.github.io/tags/apl/</link>
+      <pubDate>Thu, 29 Nov 2018 19:06:24 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/tags/apl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>C</title>
@@ -26,6 +35,15 @@
       <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
       
       <guid>https://o7g8.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Db</title>
+      <link>https://o7g8.github.io/tags/db/</link>
+      <pubDate>Thu, 29 Nov 2018 19:06:24 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/tags/db/</guid>
       <description></description>
     </item>
     
@@ -59,7 +77,7 @@
     <item>
       <title>Linux</title>
       <link>https://o7g8.github.io/tags/linux/</link>
-      <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
+      <pubDate>Thu, 29 Nov 2018 19:06:24 +0000</pubDate>
       
       <guid>https://o7g8.github.io/tags/linux/</guid>
       <description></description>
@@ -75,11 +93,38 @@
     </item>
     
     <item>
+      <title>Odbc</title>
+      <link>https://o7g8.github.io/tags/odbc/</link>
+      <pubDate>Thu, 29 Nov 2018 19:06:24 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/tags/odbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oracle</title>
+      <link>https://o7g8.github.io/tags/oracle/</link>
+      <pubDate>Thu, 29 Nov 2018 19:06:24 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/tags/oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Porting</title>
       <link>https://o7g8.github.io/tags/porting/</link>
       <pubDate>Wed, 28 Nov 2018 00:17:11 +0000</pubDate>
       
       <guid>https://o7g8.github.io/tags/porting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sqapl</title>
+      <link>https://o7g8.github.io/tags/sqapl/</link>
+      <pubDate>Thu, 29 Nov 2018 19:06:24 +0000</pubDate>
+      
+      <guid>https://o7g8.github.io/tags/sqapl/</guid>
       <description></description>
     </item>
     
