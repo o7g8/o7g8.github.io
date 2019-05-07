@@ -22,6 +22,17 @@ All views expressed on this site are my own and do not represent the opinions of
     </item>
     
     <item>
+      <title>Running Apache Spark/.NET and getting data from Oracle DB</title>
+      <link>https://o7g8.github.io/posts/apache-spark-dotnet/</link>
+      <pubDate>Mon, 06 May 2019 16:00:05 +0200</pubDate>
+      
+      <guid>https://o7g8.github.io/posts/apache-spark-dotnet/</guid>
+      <description>Running Apache Spark/.NET on Windows MS has announced support of .NET for Apache Spark.
+The main Spark/.NET documentation is here.
+In the article I will highlight steps necessary to get the .</description>
+    </item>
+    
+    <item>
       <title>Accessing Oracle DB from Dyalog APL in Linux using SQAPL</title>
       <link>https://o7g8.github.io/posts/apl-linux-oracle-odbc/</link>
       <pubDate>Thu, 29 Nov 2018 19:06:24 +0000</pubDate>
